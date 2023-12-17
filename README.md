@@ -1,4 +1,3 @@
 
-----Hi I'm Regu Nanthan K
----------Currently I'm interested in Machine Learning and Deep Learning.
----------------I'm specialized in Python,Sql and Oracle HCM.
+**Hi I'm Regu Nanthan K**
+I am a Machine Learning Engineer and specialized in Machine Learning, Deep Learning and NLP
